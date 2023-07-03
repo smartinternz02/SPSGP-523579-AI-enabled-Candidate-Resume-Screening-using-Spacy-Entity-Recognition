@@ -5,4 +5,4 @@ Team Member:
 Chhavi Jain 20BKT0144
 Ashish Absolom 20BIT0201
 Divyanshu Kumar 20BIT0418
-Param Josi 20BIT0326
+Param Joshi 20BIT0326
